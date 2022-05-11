@@ -1,0 +1,7 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{background-color: purple;font-family: cursive}
+h1{background-color: green}
+h2{background-color: blue}
